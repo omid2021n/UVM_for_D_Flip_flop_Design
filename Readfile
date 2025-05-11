@@ -1,0 +1,308 @@
+# KERNEL:   ***********       IMPORTANT RELEASE NOTES         ************
+# KERNEL: 
+# KERNEL:   You are using a version of the UVM library that has been compiled
+# KERNEL:   with `UVM_NO_DEPRECATED undefined.
+# KERNEL:   See http://www.eda.org/svdb/view.php?id=3313 for more details.
+# KERNEL: 
+# KERNEL:   You are using a version of the UVM library that has been compiled
+# KERNEL:   with `UVM_OBJECT_DO_NOT_NEED_CONSTRUCTOR undefined.
+# KERNEL:   See http://www.eda.org/svdb/view.php?id=3770 for more details.
+# KERNEL: 
+# KERNEL:       (Specify +UVM_NO_RELNOTES to turn off this notice)
+# KERNEL: 
+# KERNEL: ASDB file was created in location /home/runner/dataset.asdb
+# KERNEL: UVM_INFO @ 0: reporter [RNTST] Running test test...
+# KERNEL: UVM_INFO /home/runner/testbench.sv(78) @ 0: uvm_test_top.env.a.seqr@@rff [SEQ] rst : 1  din : 0  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(133) @ 0: uvm_test_top.env.a.d [DRV] rst : 1  din : 0  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(168) @ 30: uvm_test_top.env.a.m [MON] rst : 1  din : 0  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(193) @ 30: uvm_test_top.env.s [SCO] rst : 1  din : 0  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(195) @ 30: uvm_test_top.env.s [SCO] DFF Reset
+# KERNEL: ----------------------------------------------------------------
+# KERNEL: UVM_INFO /home/runner/testbench.sv(78) @ 30: uvm_test_top.env.a.seqr@@rff [SEQ] rst : 1  din : 1  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(133) @ 30: uvm_test_top.env.a.d [DRV] rst : 1  din : 1  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(168) @ 70: uvm_test_top.env.a.m [MON] rst : 1  din : 1  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(193) @ 70: uvm_test_top.env.s [SCO] rst : 1  din : 1  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(195) @ 70: uvm_test_top.env.s [SCO] DFF Reset
+# KERNEL: ----------------------------------------------------------------
+# KERNEL: UVM_INFO /home/runner/testbench.sv(78) @ 70: uvm_test_top.env.a.seqr@@rff [SEQ] rst : 1  din : 1  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(133) @ 70: uvm_test_top.env.a.d [DRV] rst : 1  din : 1  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(168) @ 110: uvm_test_top.env.a.m [MON] rst : 1  din : 1  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(193) @ 110: uvm_test_top.env.s [SCO] rst : 1  din : 1  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(195) @ 110: uvm_test_top.env.s [SCO] DFF Reset
+# KERNEL: ----------------------------------------------------------------
+# KERNEL: UVM_INFO /home/runner/testbench.sv(78) @ 110: uvm_test_top.env.a.seqr@@rff [SEQ] rst : 1  din : 0  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(133) @ 110: uvm_test_top.env.a.d [DRV] rst : 1  din : 0  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(168) @ 150: uvm_test_top.env.a.m [MON] rst : 1  din : 0  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(193) @ 150: uvm_test_top.env.s [SCO] rst : 1  din : 0  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(195) @ 150: uvm_test_top.env.s [SCO] DFF Reset
+# KERNEL: ----------------------------------------------------------------
+# KERNEL: UVM_INFO /home/runner/testbench.sv(78) @ 150: uvm_test_top.env.a.seqr@@rff [SEQ] rst : 1  din : 0  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(133) @ 150: uvm_test_top.env.a.d [DRV] rst : 1  din : 0  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(168) @ 190: uvm_test_top.env.a.m [MON] rst : 1  din : 0  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(193) @ 190: uvm_test_top.env.s [SCO] rst : 1  din : 0  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(195) @ 190: uvm_test_top.env.s [SCO] DFF Reset
+# KERNEL: ----------------------------------------------------------------
+# KERNEL: UVM_INFO /home/runner/testbench.sv(78) @ 190: uvm_test_top.env.a.seqr@@rff [SEQ] rst : 1  din : 1  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(133) @ 190: uvm_test_top.env.a.d [DRV] rst : 1  din : 1  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(168) @ 230: uvm_test_top.env.a.m [MON] rst : 1  din : 1  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(193) @ 230: uvm_test_top.env.s [SCO] rst : 1  din : 1  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(195) @ 230: uvm_test_top.env.s [SCO] DFF Reset
+# KERNEL: ----------------------------------------------------------------
+# KERNEL: UVM_INFO /home/runner/testbench.sv(78) @ 230: uvm_test_top.env.a.seqr@@rff [SEQ] rst : 1  din : 1  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(133) @ 230: uvm_test_top.env.a.d [DRV] rst : 1  din : 1  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(168) @ 270: uvm_test_top.env.a.m [MON] rst : 1  din : 1  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(193) @ 270: uvm_test_top.env.s [SCO] rst : 1  din : 1  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(195) @ 270: uvm_test_top.env.s [SCO] DFF Reset
+# KERNEL: ----------------------------------------------------------------
+# KERNEL: UVM_INFO /home/runner/testbench.sv(78) @ 270: uvm_test_top.env.a.seqr@@rff [SEQ] rst : 1  din : 0  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(133) @ 270: uvm_test_top.env.a.d [DRV] rst : 1  din : 0  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(168) @ 310: uvm_test_top.env.a.m [MON] rst : 1  din : 0  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(193) @ 310: uvm_test_top.env.s [SCO] rst : 1  din : 0  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(195) @ 310: uvm_test_top.env.s [SCO] DFF Reset
+# KERNEL: ----------------------------------------------------------------
+# KERNEL: UVM_INFO /home/runner/testbench.sv(78) @ 310: uvm_test_top.env.a.seqr@@rff [SEQ] rst : 1  din : 0  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(133) @ 310: uvm_test_top.env.a.d [DRV] rst : 1  din : 0  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(168) @ 350: uvm_test_top.env.a.m [MON] rst : 1  din : 0  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(193) @ 350: uvm_test_top.env.s [SCO] rst : 1  din : 0  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(195) @ 350: uvm_test_top.env.s [SCO] DFF Reset
+# KERNEL: ----------------------------------------------------------------
+# KERNEL: UVM_INFO /home/runner/testbench.sv(78) @ 350: uvm_test_top.env.a.seqr@@rff [SEQ] rst : 1  din : 1  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(133) @ 350: uvm_test_top.env.a.d [DRV] rst : 1  din : 1  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(168) @ 390: uvm_test_top.env.a.m [MON] rst : 1  din : 1  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(193) @ 390: uvm_test_top.env.s [SCO] rst : 1  din : 1  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(195) @ 390: uvm_test_top.env.s [SCO] DFF Reset
+# KERNEL: ----------------------------------------------------------------
+# KERNEL: UVM_INFO /home/runner/testbench.sv(78) @ 390: uvm_test_top.env.a.seqr@@rff [SEQ] rst : 1  din : 1  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(133) @ 390: uvm_test_top.env.a.d [DRV] rst : 1  din : 1  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(168) @ 430: uvm_test_top.env.a.m [MON] rst : 1  din : 1  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(193) @ 430: uvm_test_top.env.s [SCO] rst : 1  din : 1  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(195) @ 430: uvm_test_top.env.s [SCO] DFF Reset
+# KERNEL: ----------------------------------------------------------------
+# KERNEL: UVM_INFO /home/runner/testbench.sv(78) @ 430: uvm_test_top.env.a.seqr@@rff [SEQ] rst : 1  din : 0  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(133) @ 430: uvm_test_top.env.a.d [DRV] rst : 1  din : 0  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(168) @ 470: uvm_test_top.env.a.m [MON] rst : 1  din : 0  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(193) @ 470: uvm_test_top.env.s [SCO] rst : 1  din : 0  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(195) @ 470: uvm_test_top.env.s [SCO] DFF Reset
+# KERNEL: ----------------------------------------------------------------
+# KERNEL: UVM_INFO /home/runner/testbench.sv(78) @ 470: uvm_test_top.env.a.seqr@@rff [SEQ] rst : 1  din : 0  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(133) @ 470: uvm_test_top.env.a.d [DRV] rst : 1  din : 0  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(168) @ 510: uvm_test_top.env.a.m [MON] rst : 1  din : 0  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(193) @ 510: uvm_test_top.env.s [SCO] rst : 1  din : 0  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(195) @ 510: uvm_test_top.env.s [SCO] DFF Reset
+# KERNEL: ----------------------------------------------------------------
+# KERNEL: UVM_INFO /home/runner/testbench.sv(78) @ 510: uvm_test_top.env.a.seqr@@rff [SEQ] rst : 1  din : 1  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(133) @ 510: uvm_test_top.env.a.d [DRV] rst : 1  din : 1  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(168) @ 550: uvm_test_top.env.a.m [MON] rst : 1  din : 1  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(193) @ 550: uvm_test_top.env.s [SCO] rst : 1  din : 1  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(195) @ 550: uvm_test_top.env.s [SCO] DFF Reset
+# KERNEL: ----------------------------------------------------------------
+# KERNEL: UVM_INFO /home/runner/testbench.sv(78) @ 550: uvm_test_top.env.a.seqr@@rff [SEQ] rst : 1  din : 1  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(133) @ 550: uvm_test_top.env.a.d [DRV] rst : 1  din : 1  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(168) @ 590: uvm_test_top.env.a.m [MON] rst : 1  din : 1  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(193) @ 590: uvm_test_top.env.s [SCO] rst : 1  din : 1  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(195) @ 590: uvm_test_top.env.s [SCO] DFF Reset
+# KERNEL: ----------------------------------------------------------------
+# KERNEL: UVM_INFO /home/runner/testbench.sv(54) @ 590: uvm_test_top.env.a.seqr@@vdin [SEQ] rst : 0  din : 0  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(133) @ 590: uvm_test_top.env.a.d [DRV] rst : 0  din : 0  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(168) @ 630: uvm_test_top.env.a.m [MON] rst : 0  din : 0  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(193) @ 630: uvm_test_top.env.s [SCO] rst : 0  din : 0  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(197) @ 630: uvm_test_top.env.s [SCO] TEST PASSED
+# KERNEL: ----------------------------------------------------------------
+# KERNEL: UVM_INFO /home/runner/testbench.sv(54) @ 630: uvm_test_top.env.a.seqr@@vdin [SEQ] rst : 0  din : 1  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(133) @ 630: uvm_test_top.env.a.d [DRV] rst : 0  din : 1  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(168) @ 670: uvm_test_top.env.a.m [MON] rst : 0  din : 1  dout : 1
+# KERNEL: UVM_INFO /home/runner/testbench.sv(193) @ 670: uvm_test_top.env.s [SCO] rst : 0  din : 1  dout : 1
+# KERNEL: UVM_INFO /home/runner/testbench.sv(197) @ 670: uvm_test_top.env.s [SCO] TEST PASSED
+# KERNEL: ----------------------------------------------------------------
+# KERNEL: UVM_INFO /home/runner/testbench.sv(54) @ 670: uvm_test_top.env.a.seqr@@vdin [SEQ] rst : 0  din : 1  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(133) @ 670: uvm_test_top.env.a.d [DRV] rst : 0  din : 1  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(168) @ 710: uvm_test_top.env.a.m [MON] rst : 0  din : 1  dout : 1
+# KERNEL: UVM_INFO /home/runner/testbench.sv(193) @ 710: uvm_test_top.env.s [SCO] rst : 0  din : 1  dout : 1
+# KERNEL: UVM_INFO /home/runner/testbench.sv(197) @ 710: uvm_test_top.env.s [SCO] TEST PASSED
+# KERNEL: ----------------------------------------------------------------
+# KERNEL: UVM_INFO /home/runner/testbench.sv(54) @ 710: uvm_test_top.env.a.seqr@@vdin [SEQ] rst : 0  din : 0  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(133) @ 710: uvm_test_top.env.a.d [DRV] rst : 0  din : 0  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(168) @ 750: uvm_test_top.env.a.m [MON] rst : 0  din : 0  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(193) @ 750: uvm_test_top.env.s [SCO] rst : 0  din : 0  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(197) @ 750: uvm_test_top.env.s [SCO] TEST PASSED
+# KERNEL: ----------------------------------------------------------------
+# KERNEL: UVM_INFO /home/runner/testbench.sv(54) @ 750: uvm_test_top.env.a.seqr@@vdin [SEQ] rst : 0  din : 0  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(133) @ 750: uvm_test_top.env.a.d [DRV] rst : 0  din : 0  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(168) @ 790: uvm_test_top.env.a.m [MON] rst : 0  din : 0  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(193) @ 790: uvm_test_top.env.s [SCO] rst : 0  din : 0  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(197) @ 790: uvm_test_top.env.s [SCO] TEST PASSED
+# KERNEL: ----------------------------------------------------------------
+# KERNEL: UVM_INFO /home/runner/testbench.sv(54) @ 790: uvm_test_top.env.a.seqr@@vdin [SEQ] rst : 0  din : 1  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(133) @ 790: uvm_test_top.env.a.d [DRV] rst : 0  din : 1  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(168) @ 830: uvm_test_top.env.a.m [MON] rst : 0  din : 1  dout : 1
+# KERNEL: UVM_INFO /home/runner/testbench.sv(193) @ 830: uvm_test_top.env.s [SCO] rst : 0  din : 1  dout : 1
+# KERNEL: UVM_INFO /home/runner/testbench.sv(197) @ 830: uvm_test_top.env.s [SCO] TEST PASSED
+# KERNEL: ----------------------------------------------------------------
+# KERNEL: UVM_INFO /home/runner/testbench.sv(54) @ 830: uvm_test_top.env.a.seqr@@vdin [SEQ] rst : 0  din : 1  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(133) @ 830: uvm_test_top.env.a.d [DRV] rst : 0  din : 1  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(168) @ 870: uvm_test_top.env.a.m [MON] rst : 0  din : 1  dout : 1
+# KERNEL: UVM_INFO /home/runner/testbench.sv(193) @ 870: uvm_test_top.env.s [SCO] rst : 0  din : 1  dout : 1
+# KERNEL: UVM_INFO /home/runner/testbench.sv(197) @ 870: uvm_test_top.env.s [SCO] TEST PASSED
+# KERNEL: ----------------------------------------------------------------
+# KERNEL: UVM_INFO /home/runner/testbench.sv(54) @ 870: uvm_test_top.env.a.seqr@@vdin [SEQ] rst : 0  din : 0  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(133) @ 870: uvm_test_top.env.a.d [DRV] rst : 0  din : 0  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(168) @ 910: uvm_test_top.env.a.m [MON] rst : 0  din : 0  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(193) @ 910: uvm_test_top.env.s [SCO] rst : 0  din : 0  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(197) @ 910: uvm_test_top.env.s [SCO] TEST PASSED
+# KERNEL: ----------------------------------------------------------------
+# KERNEL: UVM_INFO /home/runner/testbench.sv(54) @ 910: uvm_test_top.env.a.seqr@@vdin [SEQ] rst : 0  din : 0  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(133) @ 910: uvm_test_top.env.a.d [DRV] rst : 0  din : 0  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(168) @ 950: uvm_test_top.env.a.m [MON] rst : 0  din : 0  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(193) @ 950: uvm_test_top.env.s [SCO] rst : 0  din : 0  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(197) @ 950: uvm_test_top.env.s [SCO] TEST PASSED
+# KERNEL: ----------------------------------------------------------------
+# KERNEL: UVM_INFO /home/runner/testbench.sv(54) @ 950: uvm_test_top.env.a.seqr@@vdin [SEQ] rst : 0  din : 1  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(133) @ 950: uvm_test_top.env.a.d [DRV] rst : 0  din : 1  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(168) @ 990: uvm_test_top.env.a.m [MON] rst : 0  din : 1  dout : 1
+# KERNEL: UVM_INFO /home/runner/testbench.sv(193) @ 990: uvm_test_top.env.s [SCO] rst : 0  din : 1  dout : 1
+# KERNEL: UVM_INFO /home/runner/testbench.sv(197) @ 990: uvm_test_top.env.s [SCO] TEST PASSED
+# KERNEL: ----------------------------------------------------------------
+# KERNEL: UVM_INFO /home/runner/testbench.sv(54) @ 990: uvm_test_top.env.a.seqr@@vdin [SEQ] rst : 0  din : 1  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(133) @ 990: uvm_test_top.env.a.d [DRV] rst : 0  din : 1  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(168) @ 1030: uvm_test_top.env.a.m [MON] rst : 0  din : 1  dout : 1
+# KERNEL: UVM_INFO /home/runner/testbench.sv(193) @ 1030: uvm_test_top.env.s [SCO] rst : 0  din : 1  dout : 1
+# KERNEL: UVM_INFO /home/runner/testbench.sv(197) @ 1030: uvm_test_top.env.s [SCO] TEST PASSED
+# KERNEL: ----------------------------------------------------------------
+# KERNEL: UVM_INFO /home/runner/testbench.sv(54) @ 1030: uvm_test_top.env.a.seqr@@vdin [SEQ] rst : 0  din : 0  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(133) @ 1030: uvm_test_top.env.a.d [DRV] rst : 0  din : 0  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(168) @ 1070: uvm_test_top.env.a.m [MON] rst : 0  din : 0  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(193) @ 1070: uvm_test_top.env.s [SCO] rst : 0  din : 0  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(197) @ 1070: uvm_test_top.env.s [SCO] TEST PASSED
+# KERNEL: ----------------------------------------------------------------
+# KERNEL: UVM_INFO /home/runner/testbench.sv(54) @ 1070: uvm_test_top.env.a.seqr@@vdin [SEQ] rst : 0  din : 0  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(133) @ 1070: uvm_test_top.env.a.d [DRV] rst : 0  din : 0  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(168) @ 1110: uvm_test_top.env.a.m [MON] rst : 0  din : 0  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(193) @ 1110: uvm_test_top.env.s [SCO] rst : 0  din : 0  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(197) @ 1110: uvm_test_top.env.s [SCO] TEST PASSED
+# KERNEL: ----------------------------------------------------------------
+# KERNEL: UVM_INFO /home/runner/testbench.sv(54) @ 1110: uvm_test_top.env.a.seqr@@vdin [SEQ] rst : 0  din : 1  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(133) @ 1110: uvm_test_top.env.a.d [DRV] rst : 0  din : 1  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(168) @ 1150: uvm_test_top.env.a.m [MON] rst : 0  din : 1  dout : 1
+# KERNEL: UVM_INFO /home/runner/testbench.sv(193) @ 1150: uvm_test_top.env.s [SCO] rst : 0  din : 1  dout : 1
+# KERNEL: UVM_INFO /home/runner/testbench.sv(197) @ 1150: uvm_test_top.env.s [SCO] TEST PASSED
+# KERNEL: ----------------------------------------------------------------
+# KERNEL: UVM_INFO /home/runner/testbench.sv(54) @ 1150: uvm_test_top.env.a.seqr@@vdin [SEQ] rst : 0  din : 1  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(133) @ 1150: uvm_test_top.env.a.d [DRV] rst : 0  din : 1  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(168) @ 1190: uvm_test_top.env.a.m [MON] rst : 0  din : 1  dout : 1
+# KERNEL: UVM_INFO /home/runner/testbench.sv(193) @ 1190: uvm_test_top.env.s [SCO] rst : 0  din : 1  dout : 1
+# KERNEL: UVM_INFO /home/runner/testbench.sv(197) @ 1190: uvm_test_top.env.s [SCO] TEST PASSED
+# KERNEL: ----------------------------------------------------------------
+# KERNEL: UVM_INFO /home/runner/testbench.sv(102) @ 1190: uvm_test_top.env.a.seqr@@rdin [SEQ] rst : 0  din : 1  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(133) @ 1190: uvm_test_top.env.a.d [DRV] rst : 0  din : 1  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(168) @ 1230: uvm_test_top.env.a.m [MON] rst : 0  din : 1  dout : 1
+# KERNEL: UVM_INFO /home/runner/testbench.sv(193) @ 1230: uvm_test_top.env.s [SCO] rst : 0  din : 1  dout : 1
+# KERNEL: UVM_INFO /home/runner/testbench.sv(197) @ 1230: uvm_test_top.env.s [SCO] TEST PASSED
+# KERNEL: ----------------------------------------------------------------
+# KERNEL: UVM_INFO /home/runner/testbench.sv(102) @ 1230: uvm_test_top.env.a.seqr@@rdin [SEQ] rst : 1  din : 0  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(133) @ 1230: uvm_test_top.env.a.d [DRV] rst : 1  din : 0  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(168) @ 1270: uvm_test_top.env.a.m [MON] rst : 1  din : 0  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(193) @ 1270: uvm_test_top.env.s [SCO] rst : 1  din : 0  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(195) @ 1270: uvm_test_top.env.s [SCO] DFF Reset
+# KERNEL: ----------------------------------------------------------------
+# KERNEL: UVM_INFO /home/runner/testbench.sv(102) @ 1270: uvm_test_top.env.a.seqr@@rdin [SEQ] rst : 1  din : 0  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(133) @ 1270: uvm_test_top.env.a.d [DRV] rst : 1  din : 0  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(168) @ 1310: uvm_test_top.env.a.m [MON] rst : 1  din : 0  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(193) @ 1310: uvm_test_top.env.s [SCO] rst : 1  din : 0  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(195) @ 1310: uvm_test_top.env.s [SCO] DFF Reset
+# KERNEL: ----------------------------------------------------------------
+# KERNEL: UVM_INFO /home/runner/testbench.sv(102) @ 1310: uvm_test_top.env.a.seqr@@rdin [SEQ] rst : 0  din : 1  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(133) @ 1310: uvm_test_top.env.a.d [DRV] rst : 0  din : 1  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(168) @ 1350: uvm_test_top.env.a.m [MON] rst : 0  din : 1  dout : 1
+# KERNEL: UVM_INFO /home/runner/testbench.sv(193) @ 1350: uvm_test_top.env.s [SCO] rst : 0  din : 1  dout : 1
+# KERNEL: UVM_INFO /home/runner/testbench.sv(197) @ 1350: uvm_test_top.env.s [SCO] TEST PASSED
+# KERNEL: ----------------------------------------------------------------
+# KERNEL: UVM_INFO /home/runner/testbench.sv(102) @ 1350: uvm_test_top.env.a.seqr@@rdin [SEQ] rst : 0  din : 1  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(133) @ 1350: uvm_test_top.env.a.d [DRV] rst : 0  din : 1  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(168) @ 1390: uvm_test_top.env.a.m [MON] rst : 0  din : 1  dout : 1
+# KERNEL: UVM_INFO /home/runner/testbench.sv(193) @ 1390: uvm_test_top.env.s [SCO] rst : 0  din : 1  dout : 1
+# KERNEL: UVM_INFO /home/runner/testbench.sv(197) @ 1390: uvm_test_top.env.s [SCO] TEST PASSED
+# KERNEL: ----------------------------------------------------------------
+# KERNEL: UVM_INFO /home/runner/testbench.sv(102) @ 1390: uvm_test_top.env.a.seqr@@rdin [SEQ] rst : 1  din : 0  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(133) @ 1390: uvm_test_top.env.a.d [DRV] rst : 1  din : 0  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(168) @ 1430: uvm_test_top.env.a.m [MON] rst : 1  din : 0  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(193) @ 1430: uvm_test_top.env.s [SCO] rst : 1  din : 0  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(195) @ 1430: uvm_test_top.env.s [SCO] DFF Reset
+# KERNEL: ----------------------------------------------------------------
+# KERNEL: UVM_INFO /home/runner/testbench.sv(102) @ 1430: uvm_test_top.env.a.seqr@@rdin [SEQ] rst : 1  din : 0  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(133) @ 1430: uvm_test_top.env.a.d [DRV] rst : 1  din : 0  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(168) @ 1470: uvm_test_top.env.a.m [MON] rst : 1  din : 0  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(193) @ 1470: uvm_test_top.env.s [SCO] rst : 1  din : 0  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(195) @ 1470: uvm_test_top.env.s [SCO] DFF Reset
+# KERNEL: ----------------------------------------------------------------
+# KERNEL: UVM_INFO /home/runner/testbench.sv(102) @ 1470: uvm_test_top.env.a.seqr@@rdin [SEQ] rst : 0  din : 1  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(133) @ 1470: uvm_test_top.env.a.d [DRV] rst : 0  din : 1  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(168) @ 1510: uvm_test_top.env.a.m [MON] rst : 0  din : 1  dout : 1
+# KERNEL: UVM_INFO /home/runner/testbench.sv(193) @ 1510: uvm_test_top.env.s [SCO] rst : 0  din : 1  dout : 1
+# KERNEL: UVM_INFO /home/runner/testbench.sv(197) @ 1510: uvm_test_top.env.s [SCO] TEST PASSED
+# KERNEL: ----------------------------------------------------------------
+# KERNEL: UVM_INFO /home/runner/testbench.sv(102) @ 1510: uvm_test_top.env.a.seqr@@rdin [SEQ] rst : 0  din : 1  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(133) @ 1510: uvm_test_top.env.a.d [DRV] rst : 0  din : 1  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(168) @ 1550: uvm_test_top.env.a.m [MON] rst : 0  din : 1  dout : 1
+# KERNEL: UVM_INFO /home/runner/testbench.sv(193) @ 1550: uvm_test_top.env.s [SCO] rst : 0  din : 1  dout : 1
+# KERNEL: UVM_INFO /home/runner/testbench.sv(197) @ 1550: uvm_test_top.env.s [SCO] TEST PASSED
+# KERNEL: ----------------------------------------------------------------
+# KERNEL: UVM_INFO /home/runner/testbench.sv(102) @ 1550: uvm_test_top.env.a.seqr@@rdin [SEQ] rst : 1  din : 0  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(133) @ 1550: uvm_test_top.env.a.d [DRV] rst : 1  din : 0  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(168) @ 1590: uvm_test_top.env.a.m [MON] rst : 1  din : 0  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(193) @ 1590: uvm_test_top.env.s [SCO] rst : 1  din : 0  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(195) @ 1590: uvm_test_top.env.s [SCO] DFF Reset
+# KERNEL: ----------------------------------------------------------------
+# KERNEL: UVM_INFO /home/runner/testbench.sv(102) @ 1590: uvm_test_top.env.a.seqr@@rdin [SEQ] rst : 1  din : 0  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(133) @ 1590: uvm_test_top.env.a.d [DRV] rst : 1  din : 0  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(168) @ 1630: uvm_test_top.env.a.m [MON] rst : 1  din : 0  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(193) @ 1630: uvm_test_top.env.s [SCO] rst : 1  din : 0  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(195) @ 1630: uvm_test_top.env.s [SCO] DFF Reset
+# KERNEL: ----------------------------------------------------------------
+# KERNEL: UVM_INFO /home/runner/testbench.sv(102) @ 1630: uvm_test_top.env.a.seqr@@rdin [SEQ] rst : 0  din : 1  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(133) @ 1630: uvm_test_top.env.a.d [DRV] rst : 0  din : 1  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(168) @ 1670: uvm_test_top.env.a.m [MON] rst : 0  din : 1  dout : 1
+# KERNEL: UVM_INFO /home/runner/testbench.sv(193) @ 1670: uvm_test_top.env.s [SCO] rst : 0  din : 1  dout : 1
+# KERNEL: UVM_INFO /home/runner/testbench.sv(197) @ 1670: uvm_test_top.env.s [SCO] TEST PASSED
+# KERNEL: ----------------------------------------------------------------
+# KERNEL: UVM_INFO /home/runner/testbench.sv(102) @ 1670: uvm_test_top.env.a.seqr@@rdin [SEQ] rst : 0  din : 1  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(133) @ 1670: uvm_test_top.env.a.d [DRV] rst : 0  din : 1  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(168) @ 1710: uvm_test_top.env.a.m [MON] rst : 0  din : 1  dout : 1
+# KERNEL: UVM_INFO /home/runner/testbench.sv(193) @ 1710: uvm_test_top.env.s [SCO] rst : 0  din : 1  dout : 1
+# KERNEL: UVM_INFO /home/runner/testbench.sv(197) @ 1710: uvm_test_top.env.s [SCO] TEST PASSED
+# KERNEL: ----------------------------------------------------------------
+# KERNEL: UVM_INFO /home/runner/testbench.sv(102) @ 1710: uvm_test_top.env.a.seqr@@rdin [SEQ] rst : 1  din : 0  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(133) @ 1710: uvm_test_top.env.a.d [DRV] rst : 1  din : 0  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(168) @ 1750: uvm_test_top.env.a.m [MON] rst : 1  din : 0  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(193) @ 1750: uvm_test_top.env.s [SCO] rst : 1  din : 0  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(195) @ 1750: uvm_test_top.env.s [SCO] DFF Reset
+# KERNEL: ----------------------------------------------------------------
+# KERNEL: UVM_INFO /home/runner/testbench.sv(102) @ 1750: uvm_test_top.env.a.seqr@@rdin [SEQ] rst : 1  din : 0  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(133) @ 1750: uvm_test_top.env.a.d [DRV] rst : 1  din : 0  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(168) @ 1790: uvm_test_top.env.a.m [MON] rst : 1  din : 0  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(193) @ 1790: uvm_test_top.env.s [SCO] rst : 1  din : 0  dout : 0
+# KERNEL: UVM_INFO /home/runner/testbench.sv(195) @ 1790: uvm_test_top.env.s [SCO] DFF Reset
+# KERNEL: ----------------------------------------------------------------
+# KERNEL: UVM_INFO /home/build/vlib1/vlib/uvm-1.2/src/base/uvm_objection.svh(1271) @ 1790: reporter [TEST_DONE] 'run' phase is ready to proceed to the 'extract' phase
+# KERNEL: UVM_INFO /home/build/vlib1/vlib/uvm-1.2/src/base/uvm_report_server.svh(869) @ 1790: reporter [UVM/REPORT/SERVER] 
+# KERNEL: --- UVM Report Summary ---
+# KERNEL: 
+# KERNEL: ** Report counts by severity
+# KERNEL: UVM_INFO :  228
+# KERNEL: UVM_WARNING :    0
+# KERNEL: UVM_ERROR :    0
+# KERNEL: UVM_FATAL :    0
+# KERNEL: ** Report counts by id
+# KERNEL: [DRV]    45
+# KERNEL: [MON]    45
+# KERNEL: [RNTST]     1
+# KERNEL: [SCO]    90
+# KERNEL: [SEQ]    45
+# KERNEL: [TEST_DONE]     1
+# KERNEL: [UVM/RELNOTES]     1
+# KERNEL: 
+# RUNTIME: Info: RUNTIME_0068 uvm_root.svh (521): $finish called.
+# KERNEL: Time: 1790 ns,  Iteration: 57,  Instance: /tb,  Process: @INITIAL#321_0@.
+# KERNEL: stopped at time: 1790 ns
+# VSIM: Simulation has finished. There are no more test vectors to simulate.
+# VSIM: Simulation has finished.
+Done
